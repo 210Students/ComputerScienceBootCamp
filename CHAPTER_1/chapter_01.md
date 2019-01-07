@@ -72,7 +72,7 @@ Out[6]: 140104475862600
 
 a와 c는 같지만 b는 다르다.
 
-![](/ComputerScienceBootCamp/images/chapter_1_memory.png)
+![](/images/chapter_1_memory.png)
 
 <br>
 
